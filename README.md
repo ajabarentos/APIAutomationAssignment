@@ -56,7 +56,7 @@ Cucumber is a software tool that supports behavior-driven development. I used th
 - Test Runner class - the class that controls the execution of the automation, where you set the configurations.
  <img width="157" alt="image" src="https://github.com/ajabarentos/APIAutomationAssignment/assets/129655196/b858b125-1481-47f5-9292-fab0ab9d1c3c">
 
-- Cucumber HTML Reports - the summary report of the automation execution in HTML format.
+- Cucumber HTML Reports - the summary report of the automation execution in HTML format. The report file can be found inside \api\target\reports\
  <img width="886" alt="image" src="https://github.com/ajabarentos/APIAutomationAssignment/assets/129655196/491f30c4-1113-4c62-ac53-b6cc8cf16e9a">
 
 
