@@ -61,7 +61,7 @@ Cucumber is a software tool that supports behavior-driven development. I used th
 
 
 ### Rest Assured
-It is a Java-based library that is used to test REST Web Services. I chose this library for the actual automation testing of the API. I utilized the **RestAssured** and **Response** class and their methods for the setup of URI, parameter, resource, method, etc. and also for validation. Here are some sammples of the mothods written in the step definition class.
+It is a Java-based library that is used to test REST Web Services. I chose this library for the actual automation testing of the API. I utilized the **RestAssured** and **Response** class and their methods for the setup of URI, parameter, resource, method, etc. and also for validation. Here are some smmples of the methods written in the step definition class.
 
 ```java
 public void setBaseURI(String url) {
