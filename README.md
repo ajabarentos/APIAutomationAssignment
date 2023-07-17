@@ -1,6 +1,6 @@
 # APIAutomationAssignment
 
-This project is created as my API Automation assignment for my Automation Tester Application at Assurity Consulting. The details on how I created, how to use, and what are the tools, libraries, etc. used in this project is written in this ReadMe document. 
+This project is created as my API Automation assignment for my Automation Tester Application at Assurity Consulting. The details on how I created, how to use, and what are the tools, libraries, etc. used in this project is written in this **README** document. 
 
 ## API Details
 Based on the email sent, here are the API details:
